@@ -20,5 +20,5 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:adwatbitcoin/adwatbitcoin.github.io.git master
+git push -f git@github.com:adwat_bitcoin/adwatbitcoin.github.io.git master
 cd -
