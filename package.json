@@ -1,12 +1,11 @@
 {
   "scripts": {
     "build": "vuepress build docs",
-    "dev": "vuepress dev docs"
+    "dev": "vuepress dev docs",
+    "deploy": "npm run build && npx gh-pages docs/.vuepress/dist"
   },
   "devDependencies": {
     "vuepress": "^1.4.0",
     "vuepress-theme-default-rtl": "^1.0.1"
-  }, 
-  "deploy": "npm run build && npx gh-pages docs/.vuepress/dist"
-  
+  }
 }
