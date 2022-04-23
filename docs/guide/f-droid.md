@@ -47,7 +47,7 @@
 1. نقوم بتحميل برنامج GnuPG [إليكم دليل كامل هنا](../guide/verify-files-with-gpg.md#تثبيت-gpg-في-windows)
 2. نقوم بتحميل ملف ال APK لتطبيق متجر [F-Droid](https://f-droid.org/) كما موضح بالصورة وحفظة في مجلد جديد او مباشرة من الرابط التالي: <https://f-droid.org/F-Droid.apk>
 
-![f-droid1](/images/f-droid/f-droid1.png)
+![f-droid1](/images/f-droid/f-droid.png)
 
 3. ثم ملف التوقيع من خلال هذا الرابط المباشر [ملف التوقيع ASC](https://f-droid.org/F-Droid.apk.asc) 
 
