@@ -46,17 +46,11 @@
 لذلك من المستحيل ان يتم اختيار نفس الكلمات المفتاحية بنفس الترتيب من قبل شخصين مختلفين.
 
 للمزيد: 
-هذا رابط لحساب 256^2 
+[هذا رابط لحساب 256^2](https://www.wolframalpha.com/input/?i=2%5E256)
 
-<https://www.wolframalpha.com/input/?i=2%5E256>
+[هذا رابط لتقدير عدد الذرات في الكون الذي عرفه الانسان](https://educationblog.oup.com/secondary/maths/numbers-of-atoms-in-the-universe)
 
-وهذا رابط لتقدير عدد الذرات في الكون الذي عرفه الانسان
-
-<https://educationblog.oup.com/secondary/maths/numbers-of-atoms-in-the-universe>
-
-وهذا مصدر اخر
-
-<https://socratic.org/questions/how-many-atoms-are-in-the-universe>
+[هذا مصدر اخر](https://socratic.org/questions/how-many-atoms-are-in-the-universe)
 :::
 
 ### مثال لكلمات مفتاحية:
