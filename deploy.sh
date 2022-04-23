@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:adwatbitcoin/adwatbitcoin.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-#git push -f git@github.com:adwatbitcoin/adwat_bitcoin.git master
+# git push -f git@github.com:adwatbitcoin/adwat_bitcoin.git master
 
 cd -
