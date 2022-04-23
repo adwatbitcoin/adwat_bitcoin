@@ -10,6 +10,7 @@ module.exports = {
         editLinks: 'true',
         editLinkText:'ساعدنا في تحسين هذا المحتوى',
         docsDir: 'docs',
+		docsBranch: 'main',
         lastUpdated: 'آخر تحديث',
         editLinks: true,
 		

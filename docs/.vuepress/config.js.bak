@@ -5,7 +5,7 @@ module.exports = {
     description: 'موقع يشرح لك كيف تستخدم البيتكوين بشكل عملي',
     theme: 'default-rtl',
     themeConfig: {
-        repo:'AdwatBitcoin/Adwat_Bitcoin',
+        repo:'adwatbitcoin/adwat_bitcoin',
         repoLabel:'للمساهمة',
         editLinks: 'true',
         editLinkText:'ساعدنا في تحسين هذا المحتوى',
