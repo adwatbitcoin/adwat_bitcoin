@@ -229,7 +229,7 @@
 لقراءة المزيد عن كيفية إدارة عقدة لايتنينغ بشكلٍ آمن  من فصل [Security of Your Node](https://github.com/lnbook/lnbook/blob/develop/05_node_operations.asciidoc)
 
 
-## العقدة السحابية لمن وهل ننصح بها
+## العقدة السحابية لمن وهل ننثح بها
 
  تعد السيرفرات السحابية الخاصة (VPS) وخدمات الحوسبة السحابية مثل Microsoft Azure أو Google Cloud أو Amazon Web Services (AWS) أو DigitalOcean ميسورة التكلفة ويمكن إعدادها بسرعة كبيرة.  يمكن استضافة عقدة Lightning مقابل ما بين 20 دولارًا و 40 دولارًا شهريًا على هذه الخدمة. وهناك حتى خدمات ارخص وتسهلك عليك العملية اعداد العقدة ك Voltage و lunanode ويمكن الدفع لهن بالبرق.
 
