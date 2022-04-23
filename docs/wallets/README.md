@@ -275,7 +275,7 @@ cat clerk salmon supreme quote person mom ensure dutch explain athlete senior pr
 نستطيع تمييز العناوين كتالي: 
 - عناوين تبدأ بالرقم 1، مثال: **1**9pjuNMKMCKnNZncD8mN64B57iDbgw7J8y
 - عناوين تبدأ بالرقم 3،  مثال : **3**54jhdji55CeJ1QNXzyLxgERZ1VWZqyHNi
-- عناوين تبدأ بـ bc1**q**،  مثال : **bc1q**wcrx4gsu2esrjv57nhthcm3l2rg3czhvg5pgmw
+- عناوين تبدأ بـ bc1**q**،  مثال : [**bc1q**wcrx4......czhvg5pgmw](https://mempool.space/address/bc1qwcrx4gsu2esrjv57nhthcm3l2rg3czhvg5pgmw)
 - عناوين تبدأ بـ bc1**p**،  مثال : [**bc1p**000g2kg4p....84uu58qvvmsq6](https://mempool.space/address/bc1p000g2kg4psep56vgqyhq4r0vv9npv724cmjeh0yppk6jj84uu58qvvmsq6)
 
 العنوانين التي تبدأ ب 1 تُعد من الطراز القديم، حجمها كبير لذلك ستدفعون عُمولة اكبر عند صرفها، لا يفضل استعمالها.
