@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/adwat_bitcoin/',
+    base: '/',
     lang: 'ar-SA',
     title: 'أدوات البيتكوين بالعربي',
     description: 'موقع يشرح لك كيف تستخدم البيتكوين بشكل عملي',
