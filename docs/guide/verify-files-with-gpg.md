@@ -270,7 +270,10 @@ curl https://raw.githubusercontent.com/spesmilo/electrum/master/pubkeys/ThomasV.
 [![YOUTUBE](/images/gpg/gpg-youtube.png)](https://youtu.be/7D83IpdiF-U?t=31)
 
 لاحظوا انها تطابق اخر 16 خانة من بصمة المفتاح العام
-6694D8DE7BE8EE5631BED950**2BD5824B7F9470E6**  
+
+```
+6694D8DE7BE8EE5631BED950[2BD5824B7F9470E6]
+``` 
 
 2. الان لكي نتأكد من ملف التنصيب نقوم بالضغط مرتين على **ملف التوقيع**
 
@@ -365,7 +368,9 @@ shasum -a 256 ~/Downloads/GPG_Suite-2021.3.dmg
 سنحتاح : 
 - **الملف** المراد التحقق منه (F-Droid.apk)
 - **ملف التوقيع** (F-Droid.apk.asc)
-- **المفتاح العام للمُطور** (37D2C98789D8311948394E3E41E7044E1DBA2E89)
+- **المفتاح العام للمُطور**
+
+```(37D2C98789D8311948394E3E41E7044E1DBA2E89)```
 
 ``` shell
 # ثم نقوم بتحميل ملف التطبيق
