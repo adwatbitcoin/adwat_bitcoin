@@ -81,6 +81,7 @@ module.exports = {
               ["guide/f-droid",'تعلم كيف تتعامل مع متجر F-droid'],
               ["guide/verify-files-with-gpg",'تعلم كيف تتحق من ملفات قبل تنصيبها'],
 			  ["guide/tor-browser",'تعلم كيف تُنصب متصفح تور Tor Browser'],
+			  ["guide/seedsigner",'تعلم كيف تبني بنفسك محفظة باردة صلبة SeedSigner'],
 			  //["guide/verify-files-with-gpg",'تعلم كيف تحتفظ بالكلمات المفتاحية'],
 			  //["guide/verify-files-with-gpg",'تعلم 5 طرق لزيادة حماية كلماتك المفتاحية'],
 			  //["guide/verify-files-with-gpg",'تعلم كيف تنشأ كلماتك المفتاحية بشكل آمن'],	  
