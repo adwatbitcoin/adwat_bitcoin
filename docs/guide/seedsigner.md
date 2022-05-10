@@ -29,6 +29,8 @@
 
 [![SeedSigner Is AWESOME](https://img.youtube.com/vi/c1-PqTNx1vc/0.jpg)](https://www.youtube.com/watch?v=c1-PqTNx1vc)
 
+[رابط لتحميل ملفات طباعة QR فارغة جاهزة للرسم عليها ](https://github.com/SeedSigner/seedsigner/tree/dev/docs/seed_qr/printable_templates)
+
 ## مميزات جهاز التوقيع SeedSigner
 
 - يتيح إنشاء كلمات مفتاحية بشكل اوتوماتيكي وسهل من خلال تصوير صورة رقمية او بشكل يدوي عبر ادخال نتائج رمي حجر نرد 99 مرة لإنشاء عشواية عالية High Entropy.
@@ -94,7 +96,7 @@
 - كرت ذاكرة من نوع `MicroSD Card` بسعة 4 GB على الاقل.
 
 
-#### ملاحظاتي لقائمة الشراء:
+### ملاحظاتي لقائمة الشراء:
 
 - اختر شاشة Waveshare بعناية، تأكد من شراء الطراز الذي تبلغ دقته 240 × 240 بكسل.
 
@@ -127,7 +129,7 @@
 
 - [طريقة تركيب مكونات الجهاز مع اللحام](https://www.youtube.com/watch?v=aIIc2DiZYcI)
 - [فيديو لتركيب جهاز SeedSigner مفتوح الغطاء](https://www.youtube.com/watch?v=gXPFJygZobE)
-- [فيديو لتركيب جهاز SeedSigner مغلق الغطاء مع طريقة اللحام اسنان التوصيل (الدبابيس )](https://www.youtube.com/watch?v=aIIc2DiZYcI)
+- [فيديو لتركيب جهاز SeedSigner مغلق الغطاء مع طريقة لحام اسنان التوصيل (الدبابيس )](https://www.youtube.com/watch?v=aIIc2DiZYcI)
 - [ بن من BTC Sessions قام بفيديو شرح عن خصائص الجهاز ايضا](https://www.youtube.com/watch?v=oBd8ZhsXnrA)
 
 
@@ -342,3 +344,4 @@ There is no indication that the signature belongs to the owner.
 - [موقع سيدساينر - seedsigner.com](https://seedsigner.com/)
 - [@SeedSigner على تويتر](https://twitter.com/SeedSigner)
 - [مجموعة SeedSigner على التلجرام](https://t.me/joinchat/GHNuc_nhNQjLPWsS)
+- [المشروع على  Github](https://github.com/SeedSigner/seedsigner)
