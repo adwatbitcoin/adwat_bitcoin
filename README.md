@@ -4,7 +4,7 @@
 
 كل محتوى الموقع تجدونه هنا على Github بشكل حُر مجاني ومفتوح المصدر، بإمكان اي شخص استعمال المواد المعروضة هنا، التعديل عليها وتقديم مواده الخاصة لدمجها في الموقع بشكل حُر ومفتوح للجميع.
 
-هذا الموقع يستعمل [VuePress](https://vuepress.vuejs.org/) لبناء محتوى الموقع من ملفات نصية محفوظة بنهاية md (markdown) لبناء موقع كامل.
+هذا الموقع يستعمل [VuePress](https://vuepress.vuejs.org/) لبناء محتوى الموقع من ملفات نصية محفوظة بنهاية md (markdown) لبناء موقع HTML كامل بواسطة القالب الإفتراضي الملائم للغات التي تكتب من اليمين لليسار، من تصميم [Hassan Alizadeh](https://github.com/alizadeh118/vuepress-theme-default-rtl.git#readme).
 
 - المحتوى النصي على شكل ملفات md تجدونهم في المجلد [docs](https://github.com/adwatbitcoin/adwat_bitcoin/tree/main/docs)
 - الصور تجدونها داخل مجلدات مختلفه هنا: [/docs/.vuepress/public/images](https://github.com/adwatbitcoin/adwat_bitcoin/tree/main/docs/.vuepress/public/images)
