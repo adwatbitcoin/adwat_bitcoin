@@ -32,22 +32,24 @@
 
 1. قم بإنشاء حساب على [Github](https://github.com/signup) اذا لم يكن لديك حساب هناك.
 2. تحميل وتنصيب هذة البرامج:
-	- [تحميل وتنصيب برنامج NodeJS](https://nodejs.org/ar/)
+
+	2.1 [تحميل وتنصيب برنامج NodeJS](https://nodejs.org/ar/)
 		- قم بتحميل الإصدار **الموصى به لجميع المستخدمين**
 		- بعد تنصيب البرنامج سيتم اضافة cmd جديد قم بالبحث عنه `Node.js command prompt` وافتحه.
 		- ستظهر شاشة سوداء مثل هذة:
+		
 			```bash
 			Your environment has been set up for using Node.js 16.13.2 (x64) and npm.
 			C:\Users\YOUR_PC_USERNAME>
 			```
 
-	- [تنصيب إضافة Yarn](https://classic.yarnpkg.com/en/docs/install)
-		- عن طريق كتابة الكود التالية في نافذة ال cmd التي فتحناها اعلاه:
-			- `npm install --global yarn`
+	2.2 [تنصيب إضافة Yarn](https://classic.yarnpkg.com/en/docs/install)
+		- عن طريق كتابة الكود التالية في نافذة ال cmd التي فتحناها اعلاه:`npm install --global yarn`
+		
+	2.3 [تحميل وتنصيب برنامج GitHub Desktop](https://desktop.github.com/)
 	
-	- [تحميل وتنصيب برنامج GitHub Desktop](https://desktop.github.com/)
+	2.4 [تحميل وتنصيب برنامج تحرير نصوص Notepad++ ](https://notepad-plus-plus.org/downloads/)
 	
-	- [تحميل وتنصيب برنامج تحرير نصوص Notepad++ ](https://notepad-plus-plus.org/downloads/)
 3. نقوم بتحميل الموقع من GitHub
 	- نقوم بالدخول الى [رابط الموقع في GitHub](https://github.com/adwatbitcoin/adwat_bitcoin)
 	- نضغط على زر `Code` باللون الاخضر من اليمين في الاعلى
