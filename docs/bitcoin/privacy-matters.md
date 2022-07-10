@@ -233,3 +233,5 @@ PM8TJdMTTjXvPD1BQVdc34miByiAuzGeV2Mk98y4Z27AWYC1BUV2zu1g23ozVUub6kSnSA3rCAtmDmQK
  - [Bisq](https://www.youtube.com/watch?v=4LyEKA5Iq9I)
  - [Hodl Hodl](https://www.youtube.com/watch?v=FmyYxrZM3Ms)
  - [RoboSats](https://www.youtube.com/watch?v=XW_wzRz_BDI)
+
+شكر خاص ل Lytebn على تصميم الرسوم البيانية
