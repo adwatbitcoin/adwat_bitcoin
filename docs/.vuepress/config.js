@@ -55,6 +55,7 @@ module.exports = {
 			  ["lightning/",'ما هي شبكة البرق'],
 			  //['/bitcoin/coinjoin','ما هو ال- CoinJoin'],
               ['/bitcoin/hash-functions','ما هي دالة الهاش أو التجزئة'],
+			  ['/bitcoin/privacy-matters','لماذا الخصوصية على البيتكوين'],
 			  ['/bitcoin/exchanges-risks','مخاطر ترك أموالك على المنصات'],
             ]
           },
