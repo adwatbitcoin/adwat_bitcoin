@@ -201,13 +201,13 @@ cat clerk salmon supreme quote person mom ensure dutch explain athlete senior pr
 
 ## كيف يجب أن نتعامل مع الكلمات المفتاحية؟
 
-- ❌ لا تقم باخذ صورة لهذة الكلمات بهاتفك
-- ❌ لا تقم بعمل printscreen
-- ❌ -لا تقم بقراءة هذة الكلمات بصوت عال  
+- ❌ لا تقم باخذ صورة لهذة الكلمات بهاتفك.
+- ❌ لا تقم بعمل printscreen.
+- ❌ -لا تقم بقراءة هذة الكلمات بصوتٍ عالٍ.  
 - ❌ لا تقم بتخزينهم على اي خدمة سحابية ك Dropbox او Google Drive أو iCloud
 - ❌ لا تقم بوضع هذة الكلمات على أي جهاز متصل او يمكن ان يتصل بالانترنت
 - ❌ لا تقم باعطاء هذة الكلمات لاي شخص حتى لو كان يريد مساعدتك.
-- ✅ قم بكاتبتها بقلم رصاص على ورقة وقم بحفظها بمكان آمن عندك بالبيت كالخزنة. هكذا تعد هذة من أشد الطرق  أمنا لحماية اموالك رغم بساطتها.
+- ✅ قم بكاتبتها بقلم رصاص على ورقة، وقم بحفظها بمكان آمن عندك بالبيت كالخزنة. تُعد هذة من أشد الطرق  أمنا لحماية اموالك رغم بساطتها.
 
 ### كيف يمكن حفظ الكلمات المفتاحية بطرق أكثر امانا
 
@@ -273,8 +273,8 @@ cat clerk salmon supreme quote person mom ensure dutch explain athlete senior pr
 أنواع عنواين البيتكوين عديدة وتتطور مع الوقت وعادة توفر عمولة كبيرة مع تطورها وتضاف عليها خصائص جديدة. عادة المحافظ تقوم بإنشاء أفضل نوع من العنوانين عند إنشاء المحفظة الجديدة دون سؤال المستخدم. بعد المحافظ المتقدمة تقوم بسؤال المستخدم عن نوع العناوين التي يريد استخدامها:
 
 نستطيع تمييز العناوين كتالي: 
-- عناوين تبدأ بالرقم 1، مثال: **1**9pjuNMKMCKnNZncD8mN64B57iDbgw7J8y
-- عناوين تبدأ بالرقم 3،  مثال : **3**54jhdji55CeJ1QNXzyLxgERZ1VWZqyHNi
+- عناوين تبدأ بالرقم 1، مثال: [**1**9pjuNMKMCK.....57iDbgw7J8y](https://mempool.space/address/19pjuNMKMCKnNZncD8mN64B57iDbgw7J8y)
+- عناوين تبدأ بالرقم 3،  مثال : [**3**54jhdji55Ce...VWZqyHNi](https://mempool.space/address/354jhdji55CeJ1QNXzyLxgERZ1VWZqyHNi)
 - عناوين تبدأ بـ bc1**q**،  مثال : [**bc1q**wcrx4......czhvg5pgmw](https://mempool.space/address/bc1qwcrx4gsu2esrjv57nhthcm3l2rg3czhvg5pgmw)
 - عناوين تبدأ بـ bc1**p**،  مثال : [**bc1p**000g2kg4p....84uu58qvvmsq6](https://mempool.space/address/bc1p000g2kg4psep56vgqyhq4r0vv9npv724cmjeh0yppk6jj84uu58qvvmsq6)
 
