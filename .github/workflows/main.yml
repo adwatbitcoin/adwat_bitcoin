@@ -1,18 +1,26 @@
 name: Build and Deploy
-on: [push]
+on:
+  push:
+    branches:
+      - master
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+        with:
+          persist-credentials: false 
 
-    - name: vuepress-deploy
-      uses: jenkey2011/vuepress-deploy@master
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: adwatbitcoin/adwatbitcoin.github.io
-        TARGET_BRANCH: main
-        BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: docs/.vuepress/dist
-        CNAME: https://adwat.bitcoinarabic.org
+      - name: Install and Build 🔧
+        run: |
+          npm install
+          npm run docs:build
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          REPOSITORY_NAME: adwatbitcoin/adwatbitcoin.github.io
+          BRANCH: main
+          FOLDER: docs/.vuepress/dist
+          CNAME: https://adwat.bitcoinarabic.org
