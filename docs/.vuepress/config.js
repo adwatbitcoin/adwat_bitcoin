@@ -52,13 +52,23 @@ module.exports = {
               ['/bitcoin/','ما هو البيتكوين'],
 			  ["wallets/",'ما هي محفظة البيتكوين'],
 			  ['/full-node/','ما هي عقدة البيتكوين الكاملة'],
-			  ["lightning/",'ما هي شبكة البرق'],
+			  //["lightning/",'ما هي شبكة البرق'],
+			  //["lightning/Non-custodial-LN-wallet",'ما هي محفظة البرق الغير وصائية'],
 			  //['/bitcoin/coinjoin','ما هو ال- CoinJoin'],
               ['/bitcoin/hash-functions','ما هي دالة الهاش أو التجزئة'],
 			  ['/bitcoin/privacy-matters','لماذا الخصوصية على البيتكوين'],
 			  ['/bitcoin/exchanges-risks','مخاطر ترك أموالك على المنصات'],
             ]
           },
+		  
+		 {
+			title: "شبكة البرق",
+			collapsable: false,
+			children: [
+          ["lightning/",'ما هي شبكة البرق'],
+          ["lightning/Non-custodial-LN-wallet",'ما هي محفظة البرق الغير وصائية'],
+						]
+		},
 		  
 		/* للتجربة فقط 
 		{
