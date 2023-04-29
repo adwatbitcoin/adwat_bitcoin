@@ -1,7 +1,7 @@
 # ⚡️شرح تفصيلي كامل عن محفظة البرق اللاوصائية
 Non-custodial LN wallet guide⚡️
 
-إعداد وترجمة:  [Bam <@Bamskki>](https://twitter.com/bamskki)
+إعداد وترجمة:  [Bam @Bamskki](https://twitter.com/bamskki)
 
 - ماهي وكيف تعمل؟
 - لماذا تريد تشغيلها؟
@@ -364,4 +364,4 @@ ___
 - Mastering the Lightning Network, Andreas Antonopoulos, Olaoluwa Osuntokun, and René Pickhardt, O’Reilly Media
 - Plebnet.wiki
 
-إعداد وترجمة:  [Bam <@Bamskki>](https://twitter.com/bamskki)
+إعداد وترجمة:  [Bam @Bamskki](https://twitter.com/bamskki)
