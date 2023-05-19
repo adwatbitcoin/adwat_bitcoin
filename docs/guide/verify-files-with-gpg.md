@@ -85,7 +85,7 @@
 
 ## تثبيت GPG في Windows
 
-1. نقوم بتحميل برنامج Gpg4win-GnuPG for Windows من خلال الرابط التالي <https://gpg4win.org/thanks-for-download.html>
+1. نقوم بتحميل برنامج Gpg4win-GnuPG for Windows من خلال الرابط التالي <https://gpg4win.org/thanks-for-download.html> والذي يحتوي على برنامج Kleopatra
 
 2. قبل تثبيته نقوم بمقارنة البصمة الرقمية للملف عبر مقارنة دالة الهاش SHA256 للملف  وما بين الهاش الذي نشر على الموقع لكي نتأكد من سلامة الملف، نقوم بالدخول الى الموقع هنا <https://gpg4win.org/package-integrity.html> والبحث عن SHA256 كما موضح بالصورة التالية:
 
