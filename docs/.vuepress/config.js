@@ -1,7 +1,7 @@
 module.exports = {
     base: '/',
     lang: 'ar-SA',
-    title: 'أدوات البيتكوين بالعربي',
+    title: 'أدوات بيتكوين',
     description: 'موقع يشرح لك كيف تستخدم البيتكوين بشكل عملي',
     theme: 'default-rtl',
     themeConfig: {
